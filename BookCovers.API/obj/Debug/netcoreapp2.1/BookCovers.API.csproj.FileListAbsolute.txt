@@ -1,0 +1,14 @@
+C:\APPS\workspaceDotNet\PS-Books\BookCovers.API\obj\Debug\netcoreapp2.1\BookCovers.API.csproj.CoreCompileInputs.cache
+C:\APPS\workspaceDotNet\PS-Books\BookCovers.API\obj\Debug\netcoreapp2.1\BookCovers.API.AssemblyInfoInputs.cache
+C:\APPS\workspaceDotNet\PS-Books\BookCovers.API\obj\Debug\netcoreapp2.1\BookCovers.API.AssemblyInfo.cs
+C:\APPS\workspaceDotNet\PS-Books\BookCovers.API\bin\Debug\netcoreapp2.1\BookCovers.API.deps.json
+C:\APPS\workspaceDotNet\PS-Books\BookCovers.API\bin\Debug\netcoreapp2.1\BookCovers.API.runtimeconfig.json
+C:\APPS\workspaceDotNet\PS-Books\BookCovers.API\bin\Debug\netcoreapp2.1\BookCovers.API.runtimeconfig.dev.json
+C:\APPS\workspaceDotNet\PS-Books\BookCovers.API\bin\Debug\netcoreapp2.1\BookCovers.API.dll
+C:\APPS\workspaceDotNet\PS-Books\BookCovers.API\bin\Debug\netcoreapp2.1\BookCovers.API.pdb
+C:\APPS\workspaceDotNet\PS-Books\BookCovers.API\obj\Debug\netcoreapp2.1\BookCovers.API.RazorAssemblyInfo.cache
+C:\APPS\workspaceDotNet\PS-Books\BookCovers.API\obj\Debug\netcoreapp2.1\BookCovers.API.RazorAssemblyInfo.cs
+C:\APPS\workspaceDotNet\PS-Books\BookCovers.API\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\APPS\workspaceDotNet\PS-Books\BookCovers.API\obj\Debug\netcoreapp2.1\BookCovers.API.RazorTargetAssemblyInfo.cache
+C:\APPS\workspaceDotNet\PS-Books\BookCovers.API\obj\Debug\netcoreapp2.1\BookCovers.API.dll
+C:\APPS\workspaceDotNet\PS-Books\BookCovers.API\obj\Debug\netcoreapp2.1\BookCovers.API.pdb
